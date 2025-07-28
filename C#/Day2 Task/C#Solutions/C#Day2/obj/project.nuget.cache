@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "97K5/OaMJ4g=",
+  "success": true,
+  "projectFilePath": "D:\\DEPI\\C#\\Tasks\\C#Solutions\\C#Day2\\C#Day2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdo Mahdy\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.302\\microsoft.net.sdk.compilers.toolset.9.0.302.nupkg.sha512"
+  ],
+  "logs": []
+}

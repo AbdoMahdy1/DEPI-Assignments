@@ -1,0 +1,15 @@
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\bin\Debug\net5.0\C#Day2.exe
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\bin\Debug\net5.0\C#Day2.deps.json
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\bin\Debug\net5.0\C#Day2.runtimeconfig.json
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\bin\Debug\net5.0\C#Day2.runtimeconfig.dev.json
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\bin\Debug\net5.0\C#Day2.dll
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\bin\Debug\net5.0\C#Day2.pdb
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.AssemblyInfoInputs.cache
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.AssemblyInfo.cs
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.dll
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\refint\C#Day2.dll
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.pdb
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\C#Day2.genruntimeconfig.cache
+D:\DEPI\C#\Tasks\C#Solutions\C#Day2\obj\Debug\net5.0\ref\C#Day2.dll
