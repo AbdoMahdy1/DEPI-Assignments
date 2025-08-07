@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEPI\\Assignments\\C#\\Day3 Task\\Day3\\Day3.csproj",
-      "projectName": "Day3",
-      "projectPath": "D:\\DEPI\\Assignments\\C#\\Day3 Task\\Day3\\Day3.csproj",
+      "projectUniqueName": "D:\\DEPI\\C#\\Day04\\Assignment\\Day4\\Day4.csproj",
+      "projectName": "Day4",
+      "projectPath": "D:\\DEPI\\C#\\Day04\\Assignment\\Day4\\Day4.csproj",
       "packagesPath": "C:\\Users\\Abdo Mahdy\\.nuget\\packages\\",
-      "outputPath": "D:\\DEPI\\Assignments\\C#\\Day3 Task\\Day3\\obj\\",
+      "outputPath": "D:\\DEPI\\C#\\Day04\\Assignment\\Day4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

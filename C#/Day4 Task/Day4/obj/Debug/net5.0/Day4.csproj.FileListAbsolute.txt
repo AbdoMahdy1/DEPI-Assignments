@@ -1,0 +1,15 @@
+D:\DEPI\C#\Day04\Assignment\Day4\bin\Debug\net5.0\Day4.exe
+D:\DEPI\C#\Day04\Assignment\Day4\bin\Debug\net5.0\Day4.deps.json
+D:\DEPI\C#\Day04\Assignment\Day4\bin\Debug\net5.0\Day4.runtimeconfig.json
+D:\DEPI\C#\Day04\Assignment\Day4\bin\Debug\net5.0\Day4.runtimeconfig.dev.json
+D:\DEPI\C#\Day04\Assignment\Day4\bin\Debug\net5.0\Day4.dll
+D:\DEPI\C#\Day04\Assignment\Day4\bin\Debug\net5.0\Day4.pdb
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.AssemblyInfoInputs.cache
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.AssemblyInfo.cs
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.dll
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\refint\Day4.dll
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.pdb
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\Day4.genruntimeconfig.cache
+D:\DEPI\C#\Day04\Assignment\Day4\obj\Debug\net5.0\ref\Day4.dll
