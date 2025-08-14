@@ -1,0 +1,11 @@
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\bin\Debug\net6.0\Common.deps.json
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\bin\Debug\net6.0\Common.dll
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\bin\Debug\net6.0\Common.pdb
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\Common.dll
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\refint\Common.dll
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\Common.pdb
+D:\DEPI\C#\Day06\Task\Day6Solution\Common\obj\Debug\net6.0\ref\Common.dll
