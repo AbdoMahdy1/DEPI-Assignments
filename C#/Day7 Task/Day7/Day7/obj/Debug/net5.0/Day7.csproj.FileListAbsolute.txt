@@ -1,0 +1,4 @@
+D:\DEPI\C#\Day07\Task\Day7\Day7\obj\Debug\net5.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Day07\Task\Day7\Day7\obj\Debug\net5.0\Day7.AssemblyInfoInputs.cache
+D:\DEPI\C#\Day07\Task\Day7\Day7\obj\Debug\net5.0\Day7.AssemblyInfo.cs
+D:\DEPI\C#\Day07\Task\Day7\Day7\obj\Debug\net5.0\Day7.csproj.CoreCompileInputs.cache
