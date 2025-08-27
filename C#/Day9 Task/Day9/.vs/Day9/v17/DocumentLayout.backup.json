@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|d:\\depi\\c#\\day09\\task\\day9\\day9\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9F3D5A-44A3-49EF-9F61-AF617A8891AA}|Day9\\Day9.csproj|solutionrelative:day9\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Program.cs",
+              "RelativeDocumentMoniker": "Day9\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Program.cs",
+              "RelativeToolTip": "Day9\\Program.cs",
+              "ViewState": "AgIAAHMAAAAA+f////8rwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:47:17.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Department.cs",
+              "RelativeDocumentMoniker": "Day9\\Department.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Department.cs",
+              "RelativeToolTip": "Day9\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:51:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Employee.cs",
+              "RelativeDocumentMoniker": "Day9\\Employee.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Employee.cs",
+              "RelativeToolTip": "Day9\\Employee.cs",
+              "ViewState": "AgIAABgAAABAZWZmZmYowB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:51:32.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Day9\\Rectangle.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Rectangle.cs",
+              "RelativeToolTip": "Day9\\Rectangle.cs",
+              "ViewState": "AgIAAAgAAACAMjMzMzMwwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:23:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Helper.cs",
+              "RelativeDocumentMoniker": "Day9\\Helper.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Helper.cs",
+              "RelativeToolTip": "Day9\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:50:33.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplexNumber.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\ComplexNumber.cs",
+              "RelativeDocumentMoniker": "Day9\\ComplexNumber.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\ComplexNumber.cs",
+              "RelativeToolTip": "Day9\\ComplexNumber.cs",
+              "ViewState": "AgIAAAQAAACAMTMzMzMLwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:23:27.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Utility.cs",
+              "RelativeDocumentMoniker": "Day9\\Utility.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Day09\\Task\\Day9\\Day9\\Utility.cs",
+              "RelativeToolTip": "Day9\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:17:55.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
