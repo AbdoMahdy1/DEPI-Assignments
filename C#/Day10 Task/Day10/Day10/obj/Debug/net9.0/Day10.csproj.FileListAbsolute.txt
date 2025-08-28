@@ -1,0 +1,14 @@
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\bin\Debug\net9.0\Day10.exe
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\bin\Debug\net9.0\Day10.deps.json
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\bin\Debug\net9.0\Day10.runtimeconfig.json
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\bin\Debug\net9.0\Day10.dll
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\bin\Debug\net9.0\Day10.pdb
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.AssemblyInfoInputs.cache
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.AssemblyInfo.cs
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.dll
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\refint\Day10.dll
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.pdb
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\Day10.genruntimeconfig.cache
+D:\DEPI\C#\Day10\Assignment\Day10\Day10\obj\Debug\net9.0\ref\Day10.dll
