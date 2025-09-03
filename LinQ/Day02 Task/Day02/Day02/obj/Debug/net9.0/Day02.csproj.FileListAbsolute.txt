@@ -1,0 +1,14 @@
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\bin\Debug\net9.0\Day02.exe
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\bin\Debug\net9.0\Day02.deps.json
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\bin\Debug\net9.0\Day02.runtimeconfig.json
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\bin\Debug\net9.0\Day02.dll
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\bin\Debug\net9.0\Day02.pdb
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.AssemblyInfoInputs.cache
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.AssemblyInfo.cs
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.csproj.CoreCompileInputs.cache
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.dll
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\refint\Day02.dll
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.pdb
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\Day02.genruntimeconfig.cache
+D:\DEPI\LinQ\Day02\Task\Day02\Day02\obj\Debug\net9.0\ref\Day02.dll
