@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\migrations\\20250907202617_addprojectandempfluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\migrations\\20250907202617_addprojectandempfluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\dbcontect\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\dbcontect\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\configuration classes\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\configuration classes\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\configuration classes\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\configuration classes\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|d:\\depi\\linq\\day03\\task\\efday01\\efday01\\configuration classes\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F81E99D-2423-47B2-B06A-ED83649F01AA}|EFDay01\\EFDay01.csproj|solutionrelative:efday01\\configuration classes\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250907202617_AddProjectAndEmpFluent.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Migrations\\20250907202617_AddProjectAndEmpFluent.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Migrations\\20250907202617_AddProjectAndEmpFluent.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Migrations\\20250907202617_AddProjectAndEmpFluent.cs",
+              "RelativeToolTip": "EFDay01\\Migrations\\20250907202617_AddProjectAndEmpFluent.cs",
+              "ViewState": "AgIAAB4AAACAZWZmZmYswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:26:17.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Configuration Classes\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Configuration Classes\\ProjectConfiguration.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Configuration Classes\\ProjectConfiguration.cs",
+              "RelativeToolTip": "EFDay01\\Configuration Classes\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:24:31.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Configuration Classes\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Configuration Classes\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Configuration Classes\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "EFDay01\\Configuration Classes\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:24:28.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Models\\Project.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Project.cs",
+              "RelativeToolTip": "EFDay01\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:17:41.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Configuration Classes\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Configuration Classes\\DepartmentConfigurations.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Configuration Classes\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "EFDay01\\Configuration Classes\\DepartmentConfigurations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:57:59.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Models\\Department.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Department.cs",
+              "RelativeToolTip": "EFDay01\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:33:45.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\DbContect\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "EFDay01\\DbContect\\CompanyDbContext.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\DbContect\\CompanyDbContext.cs",
+              "RelativeToolTip": "EFDay01\\DbContect\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAcAAACABAAAAAAmwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:30:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Models\\Test.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Test.cs",
+              "RelativeToolTip": "EFDay01\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:24:16.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Models\\Employee.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Models\\Employee.cs",
+              "RelativeToolTip": "EFDay01\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:16:13.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Program.cs",
+              "RelativeDocumentMoniker": "EFDay01\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\EFDay01\\EFDay01\\Program.cs",
+              "RelativeToolTip": "EFDay01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:11:54.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
