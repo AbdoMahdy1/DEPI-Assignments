@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\dbcontent\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\dbcontent\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\migrations\\20250911132850_healthcarecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\migrations\\20250911132850_healthcarecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\configurations\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\configurations\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\configurations\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\configurations\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|d:\\depi\\linq\\day03\\task\\day4\\healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0942E67-DC5A-4A9E-8114-5F789A2E49C5}|HealthCare\\HealthCare.csproj|solutionrelative:healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250911132850_HealthCareCreation.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Migrations\\20250911132850_HealthCareCreation.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Migrations\\20250911132850_HealthCareCreation.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Migrations\\20250911132850_HealthCareCreation.cs",
+              "RelativeToolTip": "HealthCare\\Migrations\\20250911132850_HealthCareCreation.cs",
+              "ViewState": "AgIAAAcAAACAZGZmZmYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:28:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentConfiguration.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Configurations\\AppointmentConfiguration.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Configurations\\AppointmentConfiguration.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Configurations\\AppointmentConfiguration.cs",
+              "RelativeToolTip": "HealthCare\\Configurations\\AppointmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:21:31.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "HealthCare\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAcAAABAZmZmZmYkwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:15:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientConfiguration.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Configurations\\PatientConfiguration.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Configurations\\PatientConfiguration.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Configurations\\PatientConfiguration.cs",
+              "RelativeToolTip": "HealthCare\\Configurations\\PatientConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABoPSMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:07:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Models\\Appointment.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Models\\Appointment.cs",
+              "RelativeToolTip": "HealthCare\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:04:55.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Models\\Doctor.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Models\\Doctor.cs",
+              "RelativeToolTip": "HealthCare\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:02:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Models\\Patient.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthCare\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:00:18.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthCareDbContext.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\DbContent\\HealthCareDbContext.cs",
+              "RelativeDocumentMoniker": "HealthCare\\DbContent\\HealthCareDbContext.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\DbContent\\HealthCareDbContext.cs",
+              "RelativeToolTip": "HealthCare\\DbContent\\HealthCareDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:51:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Program.cs",
+              "RelativeDocumentMoniker": "HealthCare\\Program.cs",
+              "ToolTip": "D:\\DEPI\\LinQ\\Day03\\Task\\Day4\\HealthCare\\Program.cs",
+              "RelativeToolTip": "HealthCare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:48:07.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
