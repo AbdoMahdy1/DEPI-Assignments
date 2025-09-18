@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|d:\\depi\\c#\\project\\examsystem - copy\\examsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EEFC0-FE11-48BD-B7C9-7186E8E39860}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Program.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Program.cs",
+              "RelativeToolTip": "ExamSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:24:12.361Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Student.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Student.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Student.cs",
+              "RelativeToolTip": "ExamSystem\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:03:47.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAnswer.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\UserAnswer.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\UserAnswer.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\UserAnswer.cs",
+              "RelativeToolTip": "ExamSystem\\UserAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:03:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Subject.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Subject.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Subject.cs",
+              "RelativeToolTip": "ExamSystem\\Subject.cs",
+              "ViewState": "AgIAACEAAACAZGZmZmYqwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:03:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Exam.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Exam.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Exam.cs",
+              "RelativeToolTip": "ExamSystem\\Exam.cs",
+              "ViewState": "AgIAABYBAACgopmZmTk2wB4BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:40:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Answer.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Answer.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Answer.cs",
+              "RelativeToolTip": "ExamSystem\\Answer.cs",
+              "ViewState": "AgIAACUAAAAAGjMzMzMDwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:57:34.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Question.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Question.cs",
+              "ToolTip": "D:\\DEPI\\C#\\Project\\ExamSystem - Copy\\ExamSystem\\Question.cs",
+              "RelativeToolTip": "ExamSystem\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:00:18.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

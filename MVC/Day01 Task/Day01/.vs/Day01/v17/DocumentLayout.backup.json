@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|d:\\depi\\mvc\\day01\\tasks\\day01\\day01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|solutionrelative:day01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|d:\\depi\\mvc\\day01\\tasks\\day01\\day01\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|solutionrelative:day01\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|d:\\depi\\mvc\\day01\\tasks\\day01\\day01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|solutionrelative:day01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|d:\\depi\\mvc\\day01\\tasks\\day01\\day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26317FB1-6EB0-4AF9-BB3B-6F23DFA26DAB}|Day01\\Day01.csproj|solutionrelative:day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Views\\Home\\View1.cshtml",
+              "RelativeDocumentMoniker": "Day01\\Views\\Home\\View1.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Views\\Home\\View1.cshtml",
+              "RelativeToolTip": "Day01\\Views\\Home\\View1.cshtml",
+              "ViewState": "AgIAAAkAAACgZmZmZmYkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T15:37:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Day01\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Day01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T15:21:44.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day01\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAADALTMzMzMLwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:19:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Program.cs",
+              "RelativeDocumentMoniker": "Day01\\Program.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day01\\Tasks\\Day01\\Day01\\Program.cs",
+              "RelativeToolTip": "Day01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:18:47.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

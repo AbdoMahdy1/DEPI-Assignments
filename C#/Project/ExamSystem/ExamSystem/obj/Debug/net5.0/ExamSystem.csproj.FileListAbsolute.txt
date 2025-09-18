@@ -1,0 +1,30 @@
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\bin\Debug\net5.0\ExamSystem.exe
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\bin\Debug\net5.0\ExamSystem.deps.json
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\bin\Debug\net5.0\ExamSystem.runtimeconfig.json
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\bin\Debug\net5.0\ExamSystem.runtimeconfig.dev.json
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\bin\Debug\net5.0\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\bin\Debug\net5.0\ExamSystem.pdb
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.AssemblyInfoInputs.cache
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.AssemblyInfo.cs
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\refint\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.pdb
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ExamSystem.genruntimeconfig.cache
+D:\DEPI\C#\Project\ExamSystem\ExamSystem\obj\Debug\net5.0\ref\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\bin\Debug\net5.0\ExamSystem.exe
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\bin\Debug\net5.0\ExamSystem.deps.json
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\bin\Debug\net5.0\ExamSystem.runtimeconfig.json
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\bin\Debug\net5.0\ExamSystem.runtimeconfig.dev.json
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\bin\Debug\net5.0\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\bin\Debug\net5.0\ExamSystem.pdb
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.AssemblyInfoInputs.cache
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.AssemblyInfo.cs
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.csproj.CoreCompileInputs.cache
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\refint\ExamSystem.dll
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.pdb
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ExamSystem.genruntimeconfig.cache
+D:\DEPI\C#\Project\ExamSystem - Copy\ExamSystem\obj\Debug\net5.0\ref\ExamSystem.dll
