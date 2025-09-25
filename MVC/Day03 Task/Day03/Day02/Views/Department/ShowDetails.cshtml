@@ -1,0 +1,13 @@
+﻿@model Department
+
+<h1>Department Details</h1>
+
+<h2>Id: @Model.Id</h2>
+<h2>Name: @Model.Name</h2>
+<h2>Students:- </h2>
+<ul>
+    @foreach(var item in Model.Students)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
