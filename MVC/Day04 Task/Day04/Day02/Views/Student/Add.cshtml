@@ -1,0 +1,29 @@
+﻿@model StudentDeptViewModel
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+
+<form method="post" asp-controller="Student" asp-action="AddSave">
+    <div>
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name"/>
+    </div>
+    <div>
+        <label asp-for="Age"></label>
+        <input class="form-control" asp-for="Age"/>
+    </div>
+    <div>
+        <label asp-for="DepartmentId"></label>
+        <select class="form-control" asp-for="DepartmentId">
+            @foreach (var item in Model.Departments)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <input type="submit" value="Create" class="btn btn-primary mt-3"/>
+
+</form>
+

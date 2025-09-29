@@ -1,0 +1,27 @@
+﻿@model StudentDeptViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<form method="post" asp-controller="Student" asp-action="SaveEdit" asp-route-id="@Model.Id">
+    <div>
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Age"></label>
+        <input class="form-control" asp-for="Age" />
+    </div>
+    <div>
+        <label asp-for="DepartmentId"></label>
+        <select class="form-control" asp-for="DepartmentId">
+            @foreach(var item in Model.Departments)
+            {
+                <option value="@item.Id" selected="@(item.Id == Model.DepartmentId)">@item.Name</option>
+            }
+        </select>
+    </div>
+    <input type="submit", value="Save" class="btn btn-success mt-3"/>
+</form>
