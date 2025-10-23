@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OGowkqHMoJM=",
+  "dgSpecHash": "2bF4tO5CM/4=",
   "success": true,
-  "projectFilePath": "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\Infrastucture\\Infrastructure.csproj",
+  "projectFilePath": "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\Infrastucture\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\abdel\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

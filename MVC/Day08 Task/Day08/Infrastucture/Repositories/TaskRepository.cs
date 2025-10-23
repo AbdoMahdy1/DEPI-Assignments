@@ -2,53 +2,50 @@
 using Core.Models;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Infrastructure.Repositories
 {
     public class TaskRepository : ITaskRepository
     {
-        private readonly AssessmentDbContext _context;
+        AssessmentDbContext _Context;
 
-        public TaskRepository(AssessmentDbContext context)
+        public TaskRepository(AssessmentDbContext Context)
         {
-            _context = context ?? throw new ArgumentNullException(nameof(context));
+            _Context = Context;
+        }
+        public void Add(TaskItem NewTask)
+        {
+            _Context.Add(NewTask);
         }
 
-        #region Synchronous Methods
-        public void Add(TaskItem task)
+        public void Delete(TaskItem Tsak)
         {
-            if (task == null) throw new ArgumentNullException(nameof(task));
-            _context.Tasks.Add(task);
-        }
-
-        public void Update(TaskItem task)
-        {
-            if (task == null) throw new ArgumentNullException(nameof(task));
-            _context.Tasks.Update(task);
-        }
-
-        public void Delete(TaskItem task)
-        {
-            if (task == null) throw new ArgumentNullException(nameof(task));
-            _context.Tasks.Remove(task);
+            _Context.Remove(Tsak);
         }
 
         public List<TaskItem> GetAll()
         {
-            return _context.Tasks.ToList();
+            return _Context.Tasks.ToList();
         }
 
-        public TaskItem? GetById(int id)
+        public TaskItem GetById(int id)
         {
-            return _context.Tasks.FirstOrDefault(t => t.Id == id);
+            return _Context.Tasks.FirstOrDefault(t => t.Id == id);
         }
 
         public void Save()
         {
-            _context.SaveChanges();
+            _Context.SaveChanges();
         }
-        #endregion
 
-        
+        public void Update(TaskItem Task)
+        {
+            _Context.Update(Task);
+        }
     }
 }

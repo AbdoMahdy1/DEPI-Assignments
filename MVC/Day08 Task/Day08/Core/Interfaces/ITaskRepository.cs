@@ -5,12 +5,13 @@ namespace Core.Interfaces
 {
     public interface ITaskRepository
     {
-        void Add(TaskItem task);
-        void Update(TaskItem task);
-        void Delete(TaskItem task);
-        List<TaskItem> GetAll();
-        TaskItem? GetById(int id);
-        void Save();
+        public void Add(TaskItem department);
+        public void Update(TaskItem department);
+        public void Delete(TaskItem department);
 
+        public List<TaskItem> GetAll();
+        public TaskItem GetById(int id);
+
+        public void Save();
     }
 }

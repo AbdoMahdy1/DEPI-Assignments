@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6J+1wE3xhA=",
+  "dgSpecHash": "9IGcE/QugUg=",
   "success": true,
-  "projectFilePath": "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\WebUI\\WebUI.csproj",
+  "projectFilePath": "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\WebUI\\WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\abdel\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

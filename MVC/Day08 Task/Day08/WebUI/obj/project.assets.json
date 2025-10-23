@@ -7716,11 +7716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\WebUI\\WebUI.csproj",
+      "projectUniqueName": "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\WebUI\\WebUI.csproj",
       "projectName": "WebUI",
-      "projectPath": "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\WebUI\\WebUI.csproj",
+      "projectPath": "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\WebUI\\WebUI.csproj",
       "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-      "outputPath": "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\WebUI\\obj\\",
+      "outputPath": "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7741,8 +7741,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\Infrastucture\\Infrastructure.csproj": {
-              "projectPath": "D:\\DEPI\\MVC\\Day08\\Task\\Day07\\Infrastucture\\Infrastructure.csproj"
+            "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\Infrastucture\\Infrastructure.csproj": {
+              "projectPath": "D:\\DEPI\\MVC\\Day08\\Task\\Day08\\Infrastucture\\Infrastructure.csproj"
             }
           }
         }

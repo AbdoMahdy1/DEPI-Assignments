@@ -12,98 +12,96 @@ namespace WebUI.Controllers
         {
             TaskRepo = taskRepo;
         }
-
-        // GET: List all tasks
         public IActionResult Index()
-        {
-            var tasks = TaskRepo.GetAll();
-            return View(tasks);
+        {   
+            return View(TaskRepo.GetAll());
         }
 
-        // GET: Show create form
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Create new task
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Create(TaskItem task)
-        {
-            if (ModelState.IsValid)
-            {
-                TaskRepo.Add(task);
-                TaskRepo.Save();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(task);
-        }
-
-        // GET: Show task details
         public IActionResult Details(int id)
         {
-            var task = TaskRepo.GetById(id);
-            if (task == null)
+            TaskItem Task = TaskRepo.GetById(id);
+            if (Task == null)
             {
                 return NotFound();
             }
-            return View(task);
+            return View(Task);
         }
 
-        // GET: Show edit form
-        public IActionResult Edit(int id)
-        {
-            var task = TaskRepo.GetById(id);
-            if (task == null)
-            {
-                return NotFound();
-            }
-            return View(task);
-        }
-
-        // POST: Update task
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, TaskItem task)
+        public IActionResult Create([Bind("Id,Title,Description,IsCompleted,CreatedAt")] TaskItem Task)
         {
-            if (id != task.Id)
+            if (ModelState.IsValid)
+            {
+                TaskRepo.Add(Task);
+                TaskRepo.Save();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(Task);
+        }
+
+        public IActionResult Edit(int id)
+        {
+            var Task = TaskRepo.GetById(id);
+            if (Task == null)
+            {
+                return NotFound();
+            }
+            return View(Task);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(int id, [Bind("Id,Title,Description,IsCompleted,CreatedAt")] TaskItem Task)
+        {
+            if (id != Task.Id)
             {
                 return NotFound();
             }
 
             if (ModelState.IsValid)
             {
-                TaskRepo.Update(task);
+
+                TaskRepo.Update(Task);
                 TaskRepo.Save();
+
                 return RedirectToAction(nameof(Index));
             }
-            return View(task);
+            return View(Task);
         }
 
-        // GET: Show delete confirmation
+
         public IActionResult Delete(int id)
         {
-            var task = TaskRepo.GetById(id);
-            if (task == null)
+
+            var Task = TaskRepo.GetById(id);
+            if (Task == null)
             {
                 return NotFound();
             }
-            return View(task);
+
+            return View(Task);
         }
 
-        // POST: Delete task
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(int id)
         {
-            var task = TaskRepo.GetById(id);
-            if (task != null)
+            var Task = TaskRepo.GetById(id);
+            if (Task != null)
             {
-                TaskRepo.Delete(task);
+                TaskRepo.Delete(Task);
                 TaskRepo.Save();
             }
             return RedirectToAction(nameof(Index));
         }
+
+
     }
 }
