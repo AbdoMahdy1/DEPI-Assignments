@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\shared\\_validationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\shared\\_validationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086472E7-04E6-4C88-907D-0D40EAB9FF37}|Core\\Core.csproj|d:\\depi\\mvc\\day09\\task\\day09\\core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086472E7-04E6-4C88-907D-0D40EAB9FF37}|Core\\Core.csproj|solutionrelative:core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8849E0-1894-4F7D-88ED-6854C2C4FEEF}|Infrastucture\\Infrastructure.csproj|d:\\depi\\mvc\\day09\\task\\day09\\infrastucture\\data\\assessmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8849E0-1894-4F7D-88ED-6854C2C4FEEF}|Infrastucture\\Infrastructure.csproj|solutionrelative:infrastucture\\data\\assessmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8849E0-1894-4F7D-88ED-6854C2C4FEEF}|Infrastucture\\Infrastructure.csproj|d:\\depi\\mvc\\day09\\task\\day09\\infrastucture\\data\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8849E0-1894-4F7D-88ED-6854C2C4FEEF}|Infrastucture\\Infrastructure.csproj|solutionrelative:infrastucture\\data\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086472E7-04E6-4C88-907D-0D40EAB9FF37}|Core\\Core.csproj|d:\\depi\\mvc\\day09\\task\\day09\\core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086472E7-04E6-4C88-907D-0D40EAB9FF37}|Core\\Core.csproj|solutionrelative:core\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\taskitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\taskitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\taskitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\taskitem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\taskitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\taskitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8849E0-1894-4F7D-88ED-6854C2C4FEEF}|Infrastucture\\Infrastructure.csproj|d:\\depi\\mvc\\day09\\task\\day09\\infrastucture\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8849E0-1894-4F7D-88ED-6854C2C4FEEF}|Infrastucture\\Infrastructure.csproj|solutionrelative:infrastucture\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\taskitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\taskitem\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\taskitem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\taskitem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|d:\\depi\\mvc\\day09\\task\\day09\\webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A89BF8F5-7964-4C4B-9647-D4B256B8F1EA}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationPartial.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\Shared\\_ValidationPartial.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\Shared\\_ValidationPartial.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\Shared\\_ValidationPartial.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\Shared\\_ValidationPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T08:39:08.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebUI\\appsettings.json",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\appsettings.json",
+              "RelativeToolTip": "WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T18:58:33.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:11:25.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\TaskItem\\Delete.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Delete.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\TaskItem\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:08:54.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\TaskItem\\Edit.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Edit.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\TaskItem\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:07:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\TaskItem\\Create.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Create.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\TaskItem\\Create.cshtml",
+              "ViewState": "AgIAABQAAABAMjMzMzMbwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:06:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\TaskItem\\Details.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Details.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\TaskItem\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:04:16.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\TaskItem\\Index.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\TaskItem\\Index.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\TaskItem\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T11:03:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T10:57:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\WebUI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:33:07.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Infrastucture\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Infrastucture\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Infrastucture\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAABYAAABAk5mZmZkpwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:22:00.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Infrastucture\\Data\\Configurations\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\Data\\Configurations\\TaskConfiguration.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Infrastucture\\Data\\Configurations\\TaskConfiguration.cs",
+              "RelativeToolTip": "Infrastucture\\Data\\Configurations\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:15:54.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssessmentDbContext.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Infrastucture\\Data\\AssessmentDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\Data\\AssessmentDbContext.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Infrastucture\\Data\\AssessmentDbContext.cs",
+              "RelativeToolTip": "Infrastucture\\Data\\AssessmentDbContext.cs",
+              "ViewState": "AgIAAAwAAADAlpmZmZkhwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:01:18.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:56:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Core\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\DEPI\\MVC\\Day09\\Task\\Day09\\Core\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Core\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:54:14.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
