@@ -1,0 +1,14 @@
+D:\DEPI\API\Day01\assignment\API_Day01\Core\bin\Debug\net9.0\Core.deps.json
+D:\DEPI\API\Day01\assignment\API_Day01\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\DEPI\API\Day01\assignment\API_Day01\Core\bin\Debug\net9.0\Core.dll
+D:\DEPI\API\Day01\assignment\API_Day01\Core\bin\Debug\net9.0\Core.pdb
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.dll
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\refint\Core.dll
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.pdb
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\DEPI\API\Day01\assignment\API_Day01\Core\obj\Debug\net9.0\ref\Core.dll
